@@ -1,0 +1,14 @@
+index: 10
+list:
+- text: fruits
+  label: true
+  children:
+  - text: apple
+  - text: pear
+  - text: melon
+  - text: citrus
+    label: true
+    children:
+    - text: lemon
+    - text: orange
+title: sample checklist
